@@ -1,0 +1,28 @@
+_repo: Jethouor-Crusoe-Life-in-the-Channel-Isles_17618
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Suffling, Ernest R. (Ernest Richard)
+    alias: Suffling, Ernest Richard
+    birthdate: 1855
+    deathdate: 1911
+    gutenberg_agent_id: '7497'
+    url: http://www.gutenberg.org/2009/agents/7497
+description: ''
+gutenberg_issued: '2006-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Channel Islands'
+- !lcsh 'Jethou'
+title: Jethou; or, Crusoe Life in the Channel Isles
+url: http://www.gutenberg.org/ebooks/17618
